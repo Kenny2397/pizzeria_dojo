@@ -26,3 +26,13 @@ function sandwichFactory(pan, proteína, queso, salsas) {
 
 var s1 = sandwichFactory("trigo", "pavo", "provolone", ["mostaza", "cebolla frita", "rúcula"]);
 console.log(s1);
+
+
+
+
+////////////////////////////////////////////////////////////////
+tipoCorteza = ["estilo chicago","lanzada a mano"];
+tipoSalsa = [];
+quesos = [];
+salsas = [];
+
